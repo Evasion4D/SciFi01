@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.0.3",
+	"VersionName": "2.0.4",
 	"FriendlyName": "SciFi01",
 	"Description": "",
 	"Category": "Modding",
@@ -22,6 +22,6 @@
 			"SemVersion": "^3.12.0"
 		}
 	],
-	"SemVersion": "2.0.3",
-	"GameVersion": ">=502094"
+	"SemVersion": "2.0.4",
+	"GameVersion": ">=517554"
 }
